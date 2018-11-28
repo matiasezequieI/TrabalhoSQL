@@ -1,1 +1,3 @@
 # TrabalhoSQL
+
+Matias e Rodrigo
